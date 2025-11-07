@@ -74,7 +74,7 @@ export default function Clientele() {
               href="https://wa.me/917208517891?text=Hello%2C%20I%20would%20like%20to%20share%20my%20startup%20idea."
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-outline min-w-[220px] text-center"
+              className="btn-primary min-w-[220px] text-center"
             >
               WhatsApp - Pankaj Singh
             </a>
