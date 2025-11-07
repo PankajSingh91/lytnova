@@ -96,7 +96,7 @@ export default function Services() {
       <div className="text-center mt-16 bg-soft-gradient rounded-2xl py-12 px-6">
         <h3 className="text-xl md:text-2xl font-semibold">Have a project like this?</h3>
         <p className="text-gray-600 dark:text-gray-300 mt-2">
-          Tell us what you want to build — we’ll guide you.
+          Tell us what you want to build and we’ll guide you.
         </p>
         <Link href="/contact" className="btn-primary mt-6 inline-block">
           Request a Meeting
