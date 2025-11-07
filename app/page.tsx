@@ -64,7 +64,8 @@ export default function Home() {
             ["AI / ML Applications", "/services#aiml"],
             ["Blockchain Solutions", "/services#blockchain"],
             ["Cybersecurity", "/services#security"],
-            ["Design & Branding", "/services#design"],
+            ["Digital Marketing & SEO", "/services#marketing"],
+            ["Branding & UI/UX Design", "/services#design"],
           ].map(([label, href], i) => (
             <Link key={i} href={href} className="card hover:shadow-md transition text-center">
               <div className="text-lg font-semibold">{label}</div>
