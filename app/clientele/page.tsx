@@ -32,6 +32,24 @@ export default function Clientele() {
             (Demo / Case Study coming soon)
           </Link>
         </div>
+        {/* YOSOCARE Client */}
+        <div className="card">
+          <h2 className="text-xl font-semibold">YOSOCARE</h2>
+          <p className="text-gray-600 mt-1">
+            Client: <span className="font-medium">Piyush</span>
+          </p>
+          <p className="text-gray-600 mt-3 leading-relaxed">
+            Yosocare is an e-commerce website offering handcrafted, eco-friendly personal care and gifting products with a strong focus on natural aesthetics and wellness.
+          </p>
+
+          <Link
+            href="https://www.yosocare.com/"
+            className="inline-block mt-4 text-primary underline"
+          >
+            (Link to website)
+          </Link>
+        </div>
+
 
       </div>
 
