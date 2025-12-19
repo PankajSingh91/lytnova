@@ -19,7 +19,7 @@ export default function Services() {
           <p className="text-gray-600 dark:text-gray-300 mt-2 flex-1">
             Full-stack website & web-app development with domain, hosting & scalability options.
           </p>
-          <Link href="#" className="mt-4 text-primary underline">
+          <Link href="/projects/web-development" className="mt-4 text-primary underline">
             View Previous Projects
           </Link>
         </div>
@@ -85,7 +85,7 @@ export default function Services() {
           <p className="text-gray-600 dark:text-gray-300 mt-2 flex-1">
             SEO optimization, brand identity growth, content marketing, social media management & targeted digital outreach.
           </p>
-          <Link href="#" className="mt-4 text-primary underline">
+          <Link href="/projects/marketing-seo" className="mt-4 text-primary underline">
             View Previous Projects
           </Link>
         </div>
