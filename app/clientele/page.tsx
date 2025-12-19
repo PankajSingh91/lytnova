@@ -32,6 +32,16 @@ export default function Clientele() {
             (Demo / Case Study coming soon)
           </Link>
         </div>
+        {/* Dynasty Client */}
+        <div className="card">
+          <h2 className="text-xl font-semibold">Dynasty Pharma Care</h2>
+          <p className="text-gray-600 mt-1">
+            Client: <span className="font-medium">Ajay Yadav</span>
+          </p>
+          <p className="text-gray-600 mt-3 leading-relaxed">
+            Empowering global health innovations by delivering premium, sustainable raw materials for pharmaceutical, nutraceutical, and personal care formulations.
+          </p>
+        </div>
         {/* YOSOCARE Client */}
         <div className="card">
           <h2 className="text-xl font-semibold">YOSOCARE</h2>
@@ -48,6 +58,16 @@ export default function Clientele() {
           >
             (Link to website)
           </Link>
+        </div>
+         {/* THELUTIONS Client */}
+        <div className="card">
+          <h2 className="text-xl font-semibold">THELUTIONS</h2>
+          <p className="text-gray-600 mt-1">
+            Client: <span className="font-medium">Yash Mayekar</span>
+          </p>
+          <p className="text-gray-600 mt-3 leading-relaxed">
+            A group of innovators providing innovative chemical fmcgs.
+          </p>
         </div>
 
 
